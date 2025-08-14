@@ -1,0 +1,7 @@
+1. pertama buka file requirements.txt di vscode
+2. Pastikan telah terinstall python di computer anda
+3. lalu tekan ctr + shift + p
+4. lalu pilih create virtual env python
+5. pilih file requirements.txt
+6. sistem akan mendownload venv dari file tersebut
+7. setelah sudah lalu jalan di command prompt "python main.py"
